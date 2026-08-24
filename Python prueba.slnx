@@ -1,5 +1,8 @@
 <Solution>
-  <Project Path="Python prueba.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+  <Project Path="../../../../../../Documents/trabajos unach semestre 2/programacion estructurada/python/Python prueba/Python prueba.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="b88dc2b5-6a0d-4587-914a-229df92b644f">
+    <Build Project="false" />
+  </Project>
+  <Project Path="act 04/act 04 docente.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="13cd7491-9b33-4536-bcb4-3fc816103512">
     <Build Project="false" />
   </Project>
 </Solution>
