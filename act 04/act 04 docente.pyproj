@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="act_04.py" />
+    <Compile Include="act_04IA.py" />
     <Compile Include="act_04_propio.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
